@@ -24,6 +24,7 @@ const student={
 }
 student.name = "amit";
 student.city = "noida";
+console.log(student);
 
 const arr = ["HTML", "CSS", "JavaScript"];
 console.log(arr);
